@@ -1,1 +1,2 @@
-*.ejs linguistic-language=Javascript
+*.ejs linguist-language=Javascript
+*.css linguist-language=Javascript
